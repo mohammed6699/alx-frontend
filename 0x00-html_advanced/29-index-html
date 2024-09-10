@@ -155,19 +155,24 @@
                     </header>
                     <diV>
                         <article>
-                            
                             <h3>
-                                <q cite="Yuri Y.">I am completely blown away. Thanks to Techium, we've just launched our 5th website!</q>
+                                <blockquote cite="Yuri Y.">
+                                    <p>I am completely blown away. Thanks to Techium, we've just launched our 5th website!</p>
+                                    </blockquote>
                             </h3>
                         </article>
                         <article>
                             <h3>
-                                <q cite="Dorrie S.">Thank you so much for your help. Techium company is awesome!</q>
+                                <blockquote cite="Dorrie S.">
+                                    <p>Thank you so much for your help. Techium company is awesome!</p>
+                                </blockquote>
                             </h3>
                         </article>
                         <article>
                             <h3>
-                                <q cite="Sven H.">I love your system. Definitely worth the investment. I'd be lost without Techium company.</q>
+                                <blockquote cite="Sven H.">
+                                    <P>I love your system. Definitely worth the investment. I'd be lost without Techium company.</P>
+                                </blockquote>
                             </h3>
                         </article>
                     </diV>
