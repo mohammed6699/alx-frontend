@@ -156,22 +156,25 @@
                     <diV>
                         <article>
                             <h3>
-                                <blockquote cite="Yuri Y.">
+                                <blockquote>
                                     <p>I am completely blown away. Thanks to Techium, we've just launched our 5th website!</p>
-                                    </blockquote>
-                            </h3>
-                        </article>
-                        <article>
-                            <h3>
-                                <blockquote cite="Dorrie S.">
-                                    <p>Thank you so much for your help. Techium company is awesome!</p>
+                                    <cite>Yuri Y.</cite>
                                 </blockquote>
                             </h3>
                         </article>
                         <article>
                             <h3>
-                                <blockquote cite="Sven H.">
+                                <blockquote>
+                                    <p>Thank you so much for your help. Techium company is awesome!</p>
+                                    <cite>Dorrie S.</cite>
+                                </blockquote>
+                            </h3>
+                        </article>
+                        <article>
+                            <h3>
+                                <blockquote>
                                     <P>I love your system. Definitely worth the investment. I'd be lost without Techium company.</P>
+                                    <cite>Sven H.</cite>
                                 </blockquote>
                             </h3>
                         </article>
